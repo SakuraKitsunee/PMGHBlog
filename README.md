@@ -1,6 +1,6 @@
 # Prodigy-Hacking Timeline
 
-## February 2020
+# February 2020
 
 # Feb 12,2020
 Nothing much was happening, but around the end of february is when Prodigy-Hacking was really getting popular, also Prodigy-Hacking started making script hacks!
@@ -42,7 +42,7 @@ Added a lot of .js scripts
 Even more .js scripts
 
 
-## March 2020
+# March 2020
 
 # Mar 1, 2020 
 Updated Readme. a lot
