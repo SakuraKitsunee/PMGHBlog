@@ -83,10 +83,24 @@ created code of conduct
 "Fix" ands more .js hacks 
 
 ## Mar 15, 2020
-Updated Readme
+Updated Readme & update
 
-## Mar 15, 2020
-"DONT STEAL"
-~James
+## Mar 16, 2020
+added grade change, updated Readme and "Don't steal"
 
 ## Mar 17, 2020
+Docs setup, Typings setup & merging master branch 
+
+## Mar 18, 2020
+Making new hacks for the cheat menu
+
+## Mar 19, 2020
+update password.js
+
+## Mar 21, 2020
+"Hacks"
+~James
+
+## Mar 22, 2020
+Fix & fix2
+
