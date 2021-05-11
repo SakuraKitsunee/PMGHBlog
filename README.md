@@ -83,4 +83,10 @@ created code of conduct
 "Fix" ands more .js hacks 
 
 ## Mar 15, 2020
-updated Readme
+Updated Readme
+
+## Mar 15, 2020
+"DONT STEAL"
+~James
+
+## Mar 17, 2020
