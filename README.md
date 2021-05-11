@@ -79,3 +79,8 @@ created code of conduct
 "No."
 ~ArcerionDev
 
+## Mar 13, 2020
+"Fix" ands more .js hacks 
+
+## Mar 15, 2020
+updated Readme
