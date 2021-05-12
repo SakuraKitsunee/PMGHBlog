@@ -104,3 +104,6 @@ update password.js
 ## Mar 22, 2020
 Fix & fix2
 
+## Mar 24, 2020
+助けて's CheatMenu 
+
